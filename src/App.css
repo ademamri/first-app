@@ -1,0 +1,27 @@
+*{
+  background-color: rgb(202, 122, 24);
+}
+.Nav{
+  background-color: blanchedalmond;
+  display: flex;
+  justify-content: space-between;
+}
+ul{
+  display: flex;
+  gap: 25px;
+  list-style: none;
+}
+.react{
+display: grid;
+  background-color: rgb(202, 122, 24);
+justify-content: center;
+
+}
+.tag{
+  background-color: blanchedalmond;
+}
+.test{
+  color: beige;
+  align-items: center;
+}
+
